@@ -1,0 +1,28 @@
+.header{
+  background-color: white;
+  height: 100px;
+  width: 100%;
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+   img{
+    // width: 100px;
+   }
+   .btn{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 0.875rem;
+    display: flex;
+    line-height: 1.15rem;
+    letter-spacing: 0.06rem;
+    border: 2px solid transparent;
+    border-radius: 50px;
+    background-color: #9799cd;
+    padding: 0.75rem 1.5rem;
+    transition: 0.2s ease-in-out;
+    color: white;
+    align-items: center;
+    gap: 10px;
+
+   }
+}
